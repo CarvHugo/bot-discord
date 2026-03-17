@@ -53,3 +53,7 @@ no terminal, digite...
 3 - Execute o bot:
 
 ```python bot.py```
+
+Funcionamento do bot:
+
+![bot](assets/demonstracao-bot.gif)
