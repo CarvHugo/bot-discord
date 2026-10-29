@@ -1,7 +1,6 @@
-# Discord Meme Bot
+# Discord Bot
 
-Bot feito em Python usando discord.py que reproduz áudios de memes
-em canais de voz.
+Bot feito em Python usando discord.py que reproduz áudios em canais de voz.
 
 ## Funcionalidades
 
